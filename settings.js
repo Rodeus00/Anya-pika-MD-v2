@@ -22,7 +22,7 @@ global.state = "Assam" // your state name
 global.district = "Dibrugarh" // your district name
 global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
 global.instagramId = "rodeus_0" // Your insta ID
-global.email = " // put your email here
+global.email = "omargamal09089@gmail.com" // put your email here
 
 
 //------------ 🌟 Premium Users 🌟-------------\\
